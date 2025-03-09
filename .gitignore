@@ -1,0 +1,5 @@
+# Pasta de configurações do VS Code
+.vscode/
+
+# Arquivos temporários do VS Code
+*.code-workspace
